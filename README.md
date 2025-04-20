@@ -1,6 +1,3 @@
-## Usage
-
-Run the transfer script using `esrun` and provide the recipient's public address as an argument:
 # Solana Transfer Lab
 
 This project demonstrates how to transfer SOL tokens between wallets on the Solana blockchain.
